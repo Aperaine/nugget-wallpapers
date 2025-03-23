@@ -139,27 +139,6 @@
       "preview_device": 2
     },
     {
-      "name": "iPhone 11 Pro",
-      "description": "The iPhone 11 Pro wallpapers!",
-      "url": "wallpapers/default/iPhone11Pro.tendies",
-      "preview": "previews/default/iPhone11Pro.png",
-      "preview_device": 2
-    },
-    {
-      "name": "iPhone 12",
-      "description": "The iPhone 12 wallpapers!",
-      "url": "wallpapers/default/iPhone12.tendies",
-      "preview": "previews/default/iPhone12.png",
-      "preview_device": 2
-    },
-    {
-      "name": "iPhone 12 Pro",
-      "description": "The iPhone 12 Pro wallpapers!",
-      "url": "wallpapers/default/iPhone12Pro.tendies",
-      "preview": "previews/default/iPhone12Pro.png",
-      "preview_device": 2
-    },
-    {
       "name": "iPhone SE 2nd Gen",
       "description": "The iPad Air 4th Gen wallpapers!",
       "url": "wallpapers/default/iPhoneSEGen2.tendies",
