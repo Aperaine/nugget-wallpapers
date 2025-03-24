@@ -143,6 +143,26 @@
       "preview_device": 2
     },
     {
+      "name": "iPhone 11 Pro",
+      "url": "https://atums.world/raw/iPhone11Pro.tendies",
+      "preview": "previews/default/iPhone11Pro.png",
+      "preview_device": 2
+    },
+    {
+      "name": "iPhone 12",
+      "description": "The iPhone 12 wallpapers!",
+      "url": "https://atums.world/raw/iPhone12.tendies",
+      "preview": "previews/default/iPhone12.png",
+      "preview_device": 2
+    },
+    {
+      "name": "iPhone 12 Pro",
+      "description": "The iPhone 12 Pro wallpapers!",
+      "url": "https://atums.world/raw/iPhone12Pro.tendies",
+      "preview": "previews/default/iPhone12Pro.png",
+      "preview_device": 2
+    },
+    {
       "name": "iPhone SE 2nd Gen",
       "url": "wallpapers/default/iPhoneSEGen2.tendies",
       "preview": "previews/default/iPhoneSEGen2.png",
