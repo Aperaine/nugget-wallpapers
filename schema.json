@@ -29,7 +29,7 @@
                     },
                     "preview_device": {
                         "type": "integer",
-                        "enum": [1, 2],
+                        "enum": [1, 2, 3, 4],
                         "description": "The device where the preview was recorded on: 1 for iPhone, 2 for iPad"
                     },
                     "authors": {
@@ -87,7 +87,7 @@
                     },
                     "preview_device": {
                         "type": "integer",
-                        "enum": [1, 2],
+                        "enum": [1, 2, 3, 4],
                         "description": "The device where the preview was recorded on: 1 for iPhone, 2 for iPad"
                     },
                     "authors": {
