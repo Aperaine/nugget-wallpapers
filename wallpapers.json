@@ -57,6 +57,15 @@
       "tags": ["animated", "addsToGallery", "iPhone"]
     },
     {
+      "name": "Mario Galaxy",
+      "description": "A wallpaper based on Super Mario Galaxy!",
+      "url": "wallpapers/custom/MarioGalaxy.tendies",
+      "preview": "previews/custom/galaxy.mov",
+      "preview_device": 1,
+      "authors": "@dootskyre",
+      "tags": ["animated", "addsToGallery", "iPhone", "iPad"]
+    },
+    {
       "name": "Tinted Cubes",
       "description": "Constantly rotating cubes with a spectrum of colors for your wallpaper!",
       "url": "wallpapers/custom/TintedCubes.tendies",
@@ -111,17 +120,8 @@
       "tags": ["animated", "addsToGallery", "iPhone"]
     },
     {
-      "name": "Mario Galaxy",
-      "description": "A wallpaper based on Super Mario Galaxy!",
-      "url": "wallpapers/custom/MarioGalaxy.tendies",
-      "preview": "previews/custom/galaxy.mov",
-      "preview_device": 1,
-      "authors": "@dootskyre",
-      "tags": ["animated", "addsToGallery", "iPhone", "iPad"]
-    },
-    {
       "name": "Snoopy",
-      "description": "",
+      "description": "A matching wallpaper for the tvOS and watchOS Snoopy wallpapers!",
       "url": "wallpapers/custom/Snoopy.tendies",
       "preview": "previews/custom/Snoopy.mov",
       "preview_device": 1,
@@ -130,7 +130,7 @@
     },
     {
       "name": "Aqua Collection",
-      "description": "",
+      "description": "4 different Aqua themed wallpapers with an optional custom time-warp effect!",
       "url": "wallpapers/custom/AquaCollection.tendies",
       "preview": "previews/custom/AquaCollection.mp4",
       "preview_device": 1,
@@ -213,14 +213,12 @@
     },
     {
       "name": "iPhone 12",
-      "description": "The iPhone 12 wallpapers!",
       "url": "https://atums.world/raw/iPhone12.tendies",
       "preview": "previews/default/iPhone12.png",
       "preview_device": 2
     },
     {
       "name": "iPhone 12 Pro",
-      "description": "The iPhone 12 Pro wallpapers!",
       "url": "https://atums.world/raw/iPhone12Pro.tendies",
       "preview": "previews/default/iPhone12Pro.png",
       "preview_device": 2
