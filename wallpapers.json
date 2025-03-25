@@ -203,6 +203,12 @@
       "preview_device": 4
     },
     {
+      "name": "iOS 15",
+      "url": "wallpapers/default/iOS15.tendies",
+      "preview": "previews/default/iOS15.png",
+      "preview_device": 4
+    },
+    {
       "name": "iPad Air 4th Gen",
       "url": "wallpapers/default/iPadAirGen4.tendies",
       "preview": "previews/default/iPadAirGen4.png",
@@ -236,6 +242,12 @@
       "name": "iPhone SE 2nd Gen",
       "url": "wallpapers/default/iPhoneSEGen2.tendies",
       "preview": "previews/default/iPhoneSEGen2.png",
+      "preview_device": 4
+    },
+    {
+      "name": "Lake",
+      "url": "wallpapers/default/Lake.tendies",
+      "preview": "previews/default/Lake.png",
       "preview_device": 4
     }
   ]
