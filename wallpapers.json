@@ -332,6 +332,12 @@
       "preview_device": 4
     },
     {
+      "name": "iPhone SE 2nd Gen",
+      "url": "wallpapers/default/iPhoneSEGen2.tendies",
+      "preview": "previews/default/images/iPhoneSEGen2.png",
+      "preview_device": 4
+    },
+    {
       "name": "iPhone 12",
       "url": "https://atums.world/raw/iPhone12.tendies",
       "preview": "previews/default/images/iPhone12.png",
@@ -344,15 +350,21 @@
       "preview_device": 4
     },
     {
+      "name": "iPhone 13",
+      "url": "https://atums.world/raw/iPhone13Descriptors.tendies",
+      "preview": "previews/default/images/iPhone13.png",
+      "preview_device": 4
+    },
+    {
       "name": "iPhone 13 Pro",
       "url": "https://atums.world/raw/iPhone13Pro.tendies",
       "preview": "previews/default/images/iPhone13Pro.png",
       "preview_device": 4
     },
     {
-      "name": "iPhone SE 2nd Gen",
-      "url": "wallpapers/default/iPhoneSEGen2.tendies",
-      "preview": "previews/default/images/iPhoneSEGen2.png",
+      "name": "iPhone SE 3rd Gen",
+      "url": "wallpapers/default/iPhoneSEGen3.tendies",
+      "preview": "previews/default/images/iPhoneSEGen3.png",
       "preview_device": 4
     },
     {
