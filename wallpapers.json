@@ -441,6 +441,19 @@
                 "animated",
                 "bundle"
             ]
+        },
+        {
+            "name": "Flower Boy",
+            "description": "Flower Boy by Tyler, The Creator (2017)",
+            "url": "wallpapers/custom/flower_boy_v1.tendies",
+            "preview": "previews/custom/gifs/screenrecording_04-05-2025_19-04-25_1.gif",
+            "preview_device": 1,
+            "authors": "@softminted_",
+            "tags": [
+                "iphone",
+                "animated",
+                "addsToGallery"
+            ]
         }
     ],
     "default": [
