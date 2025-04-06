@@ -64,3 +64,10 @@ jobs:
           body: "Automatically converted video previews to GIF format"
           branch: video-to-gif
           delete-branch: true
+
+      - name: Merge Pull Request
+        if: steps.convert.outputs.found_videos == 'true'
+        uses: peter-evans/enable-pull-request-automerge@v2
+        with:
+          pull-request-number: ${{ steps.create-pull-request.outputs.pull-request-number }}
+          merge-method: squash
