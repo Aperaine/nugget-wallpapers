@@ -57,6 +57,7 @@ jobs:
 
       - name: Create Pull Request
         if: steps.convert.outputs.found_videos == 'true'
+        id: create-pr
         uses: peter-evans/create-pull-request@v5
         with:
           commit-message: "chore: convert videos to GIFs"
@@ -64,3 +65,11 @@ jobs:
           body: "Automatically converted video previews to GIF format"
           branch: video-to-gif
           delete-branch: true
+
+      - name: Enable Auto-Merge
+        if: steps.convert.outputs.found_videos == 'true' && steps.create-pr.outputs.pull-request-number != ''
+        uses: peter-evans/enable-pull-request-automerge@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          pull-request-number: ${{ steps.create-pr.outputs.pull-request-number }}
+          merge-method: squash
