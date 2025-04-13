@@ -1,6 +1,6 @@
 {
-    "$schema": "https://raw.githubusercontent.com/SerStars/nugget-wallpapers/refs/heads/dev/schema.json",
-    "base_url": "https://raw.githubusercontent.com/SerStars/nugget-wallpapers/refs/heads/dev/",
+    "$schema": "https://raw.githubusercontent.com/SerStars/nugget-wallpapers/refs/heads/main/schema.json",
+    "base_url": "https://raw.githubusercontent.com/SerStars/nugget-wallpapers/refs/heads/main/",
     "custom": [
         {
             "name": "Wii Homebrew Channel",
@@ -819,15 +819,15 @@
             "preview_device": 4
         },
         {
-            "name": "iPhone SE 3rd Gen",
-            "url": "wallpapers/default/iPhoneSEGen3.tendies",
-            "preview": "previews/default/images/iPhoneSEGen3.png",
+            "name": "iPhone 14",
+            "url": "wallpapers/default/iPhone14.tendies",
+            "preview": "previews/default/images/iPhone14.png",
             "preview_device": 4
         },
         {
-            "name": "iPhone 14",
-            "url": "https://atums.world/raw/iPhone14.tendies",
-            "preview": "previews/default/images/iPhone14.png",
+            "name": "iPhone SE 3rd Gen",
+            "url": "wallpapers/default/iPhoneSEGen3.tendies",
+            "preview": "previews/default/images/iPhoneSEGen3.png",
             "preview_device": 4
         }
     ]
