@@ -767,6 +767,19 @@
                 "animated",
                 "addsToGallery"
             ]
+        },
+        {
+            "name": "Undertale Ruins Scrolling Wallpaper",
+            "description": "Ruins, now on your phone!",
+            "url": "wallpapers/custom/UndertaleRuins.tendies",
+            "preview": "previews/custom/gifs/ScreenRecording_04-17-2025_18-55-26_1.gif",
+            "preview_device": 1,
+            "authors": "TY and Co.",
+            "tags": [
+                "iPhone",
+                "animated",
+                "addsToGallery"
+            ]
         }
     ],
     "default": [
