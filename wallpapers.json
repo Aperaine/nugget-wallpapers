@@ -927,5 +927,14 @@
             "preview": "previews/default/images/iPhone15Pro.png",
             "preview_device": 4
         }
+    ],
+    "template": [
+        {
+            "name": "Animal Crossing",
+            "url": "wallpapers/template/AnimalCrossing.tendies",
+            "preview": "previews/template/gifs/AnimalCrossing.gif",
+            "preview_device": 1,
+            "authors": "@dootskyre"
+        }
     ]
 }
