@@ -734,7 +734,7 @@
             "url": "wallpapers/custom/Lil_Uzi_Vert_Vs._The_World.tendies",
             "preview": "previews/custom/gifs/preview.gif",
             "preview_device": 1,
-            "authors": "dularkian on GitHub",
+            "authors": "@dularkian on GitHub",
             "tags": [
                 "iPhone",
                 "animated",
@@ -928,5 +928,13 @@
             "preview_device": 4
         }
     ],
-    "template": []
+    "template": [
+        {
+          "name": "LavaLamp",
+          "url": "wallpapers/template/LavaLamp V1.1.batter",
+          "preview": "previews/template/gifs/lavalamp.gif",
+          "preview_device": 1,
+          "authors": "@dularkian on GitHub"
+        }
+    ]
 }
