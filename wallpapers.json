@@ -927,5 +927,6 @@
             "preview": "previews/default/images/iPhone15Pro.png",
             "preview_device": 4
         }
-    ]
+    ],
+    "template": []
 }
