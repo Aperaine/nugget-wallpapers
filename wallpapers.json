@@ -3,6 +3,73 @@
     "base_url": "https://raw.githubusercontent.com/SerStars/nugget-wallpapers/refs/heads/main/",
     "custom": [
         {
+            "name": "Black Hole",
+            "description": "Cool, beautiful, and strong.",
+            "url": "wallpapers/custom/BlackHole.tendies",
+            "preview": "previews/custom/gifs/BlackHole.gif",
+            "preview_device": 1,
+            "authors": "@i.mes",
+            "tags": [
+                "iPhone",
+                "animated",
+                "addsToGallery"
+            ],
+            "winner": [
+                true,
+                1
+            ]
+        },
+        {
+            "name": "Cat Volleyball",
+            "description": "Hapi Hapi Hapi",
+            "url": "wallpapers/custom/catvolleyball-lite.tendies",
+            "preview": "previews/custom/gifs/catvolleyball-lite.gif",
+            "preview_device": 2,
+            "authors": "@c4ndyf1sh",
+            "tags": [
+                "iPhone",
+                "iPad",
+                "animated",
+                "addsToGallery",
+                "appearanceAware"
+            ],
+            "winner": [
+                true,
+                2
+            ]
+        },
+        {
+            "name": "Animal Crossing Seasons",
+            "description": "Based on the Animal Crossing New Horizons loading screen, an always animated wallpaper with 4 seasonal light/dark variants!",
+            "url": "wallpapers/custom/AnimalCrossingSeasons.tendies",
+            "preview": "previews/custom/gifs/ScreenRecording_04-01-2025_07-20-52_1.gif",
+            "preview_device": 1,
+            "authors": "@dootskyre",
+            "tags": [
+                "iPhone",
+                "appearanceAware",
+                "addsToGallery",
+                "animated",
+                "bundle"
+            ],
+            "winner": [
+                true,
+                3
+            ]
+        },
+        {
+            "name": "Persona 3 Reload (pause menu)",
+            "description": "Your phone is now a game.",
+            "url": "wallpapers/custom/Persona3.tendies",
+            "preview": "previews/custom/gifs/Persona3.gif",
+            "preview_device": 1,
+            "authors": "@bebebole",
+            "tags": [
+                "iPhone",
+                "addsToGallery"
+            ]
+        },
+        {
             "name": "Wii Homebrew Channel",
             "description": "The Wii Homebrew Channel banner as your wallpaper!",
             "url": "wallpapers/custom/HomebrewChannel.tendies",
@@ -428,21 +495,6 @@
             ]
         },
         {
-            "name": "Animal Crossing Seasons",
-            "description": "Based on the Animal Crossing New Horizons loading screen, an always animated wallpaper with 4 seasonal light/dark variants!",
-            "url": "wallpapers/custom/AnimalCrossingSeasons.tendies",
-            "preview": "previews/custom/gifs/ScreenRecording_04-01-2025_07-20-52_1.gif",
-            "preview_device": 1,
-            "authors": "@dootskyre",
-            "tags": [
-                "iPhone",
-                "appearanceAware",
-                "addsToGallery",
-                "animated",
-                "bundle"
-            ]
-        },
-        {
             "name": "Flower Boy",
             "description": "Flower Boy by Tyler, The Creator (2017)",
             "url": "wallpapers/custom/flower_boy_v1.tendies",
@@ -546,18 +598,6 @@
             ]
         },
         {
-            "name": "Persona 3 Reload (pause menu)",
-            "description": "Your phone is now a game.",
-            "url": "wallpapers/custom/Persona3.tendies",
-            "preview": "previews/custom/gifs/Persona3.gif",
-            "preview_device": 1,
-            "authors": "@bebebole",
-            "tags": [
-                "iPhone",
-                "addsToGallery"
-            ]
-        },
-        {
             "name": "Skeleton",
             "description": "Peace, my friend.",
             "url": "wallpapers/custom/Skelet.tendies",
@@ -594,34 +634,6 @@
                 "iPhone",
                 "animated",
                 "addsToGallery"
-            ]
-        },
-        {
-            "name": "Black Hole",
-            "description": "Cool, beautiful, and strong.",
-            "url": "wallpapers/custom/BlackHole.tendies",
-            "preview": "previews/custom/gifs/BlackHole.gif",
-            "preview_device": 1,
-            "authors": "@i.mes",
-            "tags": [
-                "iPhone",
-                "animated",
-                "addsToGallery"
-            ]
-        },
-        {
-            "name": "Cat Volleyball",
-            "description": "Hapi Hapi Hapi",
-            "url": "wallpapers/custom/catvolleyball-lite.tendies",
-            "preview": "previews/custom/gifs/catvolleyball-lite.gif",
-            "preview_device": 2,
-            "authors": "@c4ndyf1sh",
-            "tags": [
-                "iPhone",
-                "iPad",
-                "animated",
-                "addsToGallery",
-                "appearanceAware"
             ]
         },
         {
