@@ -58,6 +58,19 @@
             ]
         },
         {
+            "name": "FrutigerAeroV1",
+            "description": "A Wallpaper based on the Frutiger Areo Style",
+            "url": "wallpapers/custom/FrutigerAeroV1.tendies",
+            "preview": "previews/custom/gifs/FrutigerAeroV1.gif",
+            "preview_device": 1,
+            "authors": "Preview Video from @suna.ez, The Graduation wallpaper by @rownie and @mars was used as a basis",
+            "tags": [
+                "iPhone",
+                "animated",
+                "addsToGallery"
+            ]
+        }
+        {
             "name": "Playboi Carti - Die Lit",
             "description": "Animated album art from Playboi Carti's 2018 album Die Lit",
             "url": "wallpapers/custom/PlayboiCarti-DieLit.tendies",
@@ -958,19 +971,6 @@
             "preview": "previews/custom/gifs/ScreenRecording_05-03-2025_15-48-23_1.gif",
             "preview_device": 1,
             "authors": "trinityhades",
-            "tags": [
-                "iPhone",
-                "animated",
-                "addsToGallery"
-            ]
-        },
-        {
-            "name": "FrutigerAeroV1",
-            "description": "A Wallpaper based on the Frutiger Areo Style",
-            "url": "wallpapers/custom/FrutigerAeroV1.tendies",
-            "preview": "previews/custom/gifs/FrutigerAeroV1.gif",
-            "preview_device": 1,
-            "authors": "Preview Video from @suna.ez, The Graduation wallpaper by @rownie and @mars was used as a basis",
             "tags": [
                 "iPhone",
                 "animated",
