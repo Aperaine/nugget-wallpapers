@@ -1,0 +1,108 @@
+{
+    "Nugget": {
+        "icon": "https://raw.githubusercontent.com/leminlimez/Nugget/refs/heads/main/credits/big_nugget.png",
+        "faq": [
+            {
+                "question": "Is my device supported on the newest Nugget version?",
+                "answer": "****Yes.****\nTo find out what features are supported, go to [Nugget Helper](https://squair.is-a.dev/nugget-docs).\nNow __PLEASE__ stop asking. It's annoying to respond with the same thing every time."
+            },
+            {
+                "question": "How do I install Nugget?",
+                "answer": "****Go to the [Nugget Helper](https://squair.is-a.dev/nugget-docs).****\nThe [Nugget Helper](https://squair.is-a.dev/nugget-docs) will tell you how to set up Nugget on Windows, or MacOS."
+            },
+            {
+                "question": "Is Nugget a virus?",
+                "answer": "****No.****\nNugget is not a virus, as long as you're using the [official Nugget GitHub](https://github.com/LeminLimez/Nugget/releases) or the [website](https://cowabun.ga).\nSome older versions of Nugget may trigger a antivirus screen on Windows, but the Nugget developers and I assure you that this will not harm your computer in any way."
+            },
+            {
+                "question": "Is mobilegestalt supported on my iOS version?",
+                "answer": "****Maybe.****\nIf you're on iOS/iPadOS 18.2 Developer Beta 2 or under, yes.\n__**There will never be support for newer versions above 18.2 Developer Beta 2. Stop asking.**__"
+            },
+            {
+                "question": "Where can I find wallpapers?",
+                "answer": "****PosterRestore****\nCommunity made wallpapers (.tendies) can be found in the [PosterRestore](https://discord.com/invite/gWtzTVhMvh) Discord server, or [cowabun.ga/wallpapers](https://cowabun.ga/wallpapers)."
+            },
+            {
+                "question": "How do I create a .tendies file (custom wallpaper)?",
+                "answer": "****Mica editor.****\nIf you're on MacOS, you can use the Mica editor. To get started, join [PosterRestore](https://discord.com/invite/gWtzTVhMvh) and request support on how to do this (note; it is complicated if you're not good with computers).\nThere currently is no way to do it on Windows, but [OpenPoster](https://github.com/openposter/OpenPoster) is in development for Windows and MacOS."
+            },
+            {
+                "question": "Will 18.2+ have mobilegestalt support in the future?",
+                "answer": "****NO!!****\nPLEASE. I BEG. STOP ASKING THIS QUESTION.\nVersions of iOS/iPadOS 18.2 Developer Beta 3 and up will __**NEVER HAVE SUPPORT**__."
+            },
+            {
+                "question": "I can't click on Screen Time in settings.",
+                "answer": "****You disabled it in Daemons.****\nIf you disable ScreenTime Agent in Nugget, you won't be able to click it in settings. To re-enable it, go into nugget > Daemons > Uncheck \"Disable ScreenTime Agent\".\nThen, go to apply > Reset Tweaks. Click \"Apply\"."
+            },
+            {
+                "question": "What are ALL the Nugget features?",
+                "answer": "****Visit the Nugget GitHub page.****\n[Go to the Nugget GitHub](https://github.com/leminlimez/Nugget#Features)"
+            },
+            {
+                "question": "My wallpapers are duplicating.",
+                "answer": "****Clear Collections.****\nGo to Nugget > Posterboard > Clear Collections. Add your wallpapers, and apply.\nIf this still does not work, try changing your device language (example; English (US) > English (UK)) and then change it back to the original language."
+            },
+            {
+                "question": "My Collections section is gone.",
+                "answer": "****Clear Collections (again).****\nGo to Nugget > Posterboard > Clear Collections.\nIf this still does not work, try changing your device language (example; English (US) > English (UK)) and then change it back to the original language."
+            },
+            {
+                "question": "Nugget says \"Partially supported.\".",
+                "answer": "****You cannot have mobilegestalt tweaks.****\nYou cannot enable mobilegestalt tweaks like Apple Intelligence, Always on Display, or Dynamic Island.\nThough, you can still enable tweaks like Posterboard, Daemons, and Springboard options.\nFor more info, go to the [Nugget Helper](https://squair.is-a.dev/nugget-docs)."
+            },
+            {
+                "question": "ConnectionTerminatedError() or ConnectionAbortedError()",
+                "answer": "****Your device failed to connect.\n🪟 Windows: Make sure you have [Apple Devices](https://apps.microsoft.com/detail/9np83lwlpz9k) (or iTunes if [Apple Devices](https://support.apple.com/en-us/106372) does not work) open, and your device is showing. Go back into Nugget, and refresh the device list.\n🍎 MacOS: open Finder, and make sure you see your device listed on the side, above Tags. Go back to nugget, and refresh the device list.\n\nMake sure you are using the port on the back of your pc (if applicable), and you are using a cable that is able to transfer data."
+            },
+            {
+                "question": "\"Your device is managed and MDM backup encryption is on.\"",
+                "answer": "****Device management is blocking you.****\nOn your device, go to 'Settings > General > VPN & Device Management', and remove the 'appdb' management profile.\n\nNote: don't use Nugget on a school/work device."
+            },
+            {
+                "question": "No URL Specified.",
+                "answer": "****Your iOS/iPadOS version is unsupported.****\nOnly versions of iOS/iPadOS 18.2 Developer Beta 2 and under support mobilegestalt. See [Nugget Helper](https://squair.is-a.dev/nugget-docs)."
+            },
+            {
+                "question": "Nugget.exe is not opening.",
+                "answer": "****You opened it incorrectly.****\nType 'win+r' and in the newly opened window, type 'cmd' and press enter. Drag 'Nugget.exe' into command prompt, and press enter.\nWait a few seconds before Nugget opens. Don't close command prompt. See [Nugget Helper](https://squair.is-a.dev/nugget-docs)."
+            },
+            {
+                "question": "\"Failed to get device list...\"",
+                "answer": "****Your device failed to connect.****\nSee ConnectionTerminatedError()."
+            },
+            {
+                "question": "MuxException: MuxException(\"...",
+                "answer": "****Device access error.****\nMake sure you have your phone unlocked, and trusted. Windows users: [download Python](https://apps.microsoft.com/detail/9pnrbtzxmb4z)."
+            },
+            {
+                "question": "MUX ERROR with lockdown device with UUID...",
+                "answer": "****Device access error (again).****\nMake sure you have your phone unlocked, and trusted. Windows users: [download Python](https://apps.microsoft.com/detail/9pnrbtzxmb4z)."
+            },
+            {
+                "question": "Device is password protected!",
+                "answer": "****Device access error (again x2).****\n\nMake sure you have your phone unlocked, and trusted. Windows users: [download Python](https://apps.microsoft.com/detail/9pnrbtzxmb4z)."
+            },
+            {
+                "question": "Wallpapers not appearing.",
+                "answer": "****Applying error.****\nOpen Nugget, and go to the Posterboard tab. Next, click \"Clear Collections\", and then go to the Apply tab, and apply.\nIf your wallpapers don't show in the \"Collections\" tab within 1-7 minutes, try applying a different wallpaper."
+            },
+            {
+                "question": "FileNotFoundError(2, 'No such file or directory')",
+                "answer": "****Re-download Nugget.****\nGo to the [latest Nugget release](https://github.com/leminlimez/Nugget/releases/latest) on GitHub, and re-download it."
+            }
+        ]
+    },
+    "Pocket Poster": {
+        "icon": "https://raw.githubusercontent.com/leminlimez/Pocket-Poster/refs/heads/main/Pocket%20Poster/Assets.xcassets/AppIcon.appiconset/pocket_poster_transparent.png",
+        "faq": [
+            {
+                "question": "'The file \".Trash\" coulnd't be saved...'",
+                "answer": "There's muiltiple things that can cause this error. Such as a incorrect App Hash, error with PosterBoard, or an invalid `.tendies` file.\n\nA very common issue is that you may have cleared collections inside of Nugget. To fix this, go to `Settings > Language & Region` and click \"Add Language...\". Chose another language. Then, switch back to your preferred language.\n\nMake sure your app hash matches the one that you received from running the \"Pocket Poster Helper\" button in Nugget's settings.\n\nIf this is an error with PosterBoard, use the fallback shortcut by going to Pocket Poster's settings, and clicking \"Download Fallback Shortcut\". Run it, and try applying again.\n\nIf these fixes still don't work for you, check your `.tendies` file. It could be misconfigured. Try using it on your pc, or contacting the creator."
+            },
+            {
+                "question": "Where can I find wallpapers?",
+                "answer": "You can find wallpapers at [cowabun.ga/wallpapers](https://cowabun.ga/wallpapers) or in the [PosterRestore Discord server](https://discord.com/invite/gWtzTVhMvh)."
+            }
+        ]
+    }
+}
