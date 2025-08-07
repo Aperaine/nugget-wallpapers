@@ -1067,6 +1067,19 @@
                 "animated",
                 "addsToGallery"
             ]
+        },
+        {
+            "name": "Solar System",
+            "description": "Sun, earth, and moon.",
+            "url": "wallpapers/custom/SolarSystem.tendies",
+            "preview": "previews/custom/gifs/ScreenRecording_06-09-2025_20-03-05_1.gif",
+            "preview_device": 1,
+            "authors": "squair.cs",
+            "tags": [
+                "iPhone",
+                "addsToGallery",
+                "animated"
+            ]
         }
     ],
     "default": [
