@@ -1092,6 +1092,19 @@
                 "iPhone",
                 "addsToGallery"
             ]
+        },
+        {
+            "name": "Super Mario Bros.",
+            "description": "Play Super Mario Bros. on your lock screen!",
+            "url": "wallpapers/custom/SuperMarioBros.tendies",
+            "preview": "previews/custom/gifs/ScreenRecording_09-06-2025_19-06-44_1.gif",
+            "preview_device": 1,
+            "authors": "squair.dev",
+            "tags": [
+                "iPhone",
+                "animated",
+                "addsToGallery"
+            ]
         }
     ],
     "default": [
